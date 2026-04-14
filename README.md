@@ -1,4 +1,4 @@
-- Web, App dev *Not currently active on GitHub* :>
+- Web, App, and whatever other things i make.
 - JS, Java, Python, .NET, Developer
 - Homelab and Linux enthusiast
 
