@@ -1,4 +1,4 @@
-- Im a web and bot developer *Not currently active on GitHub* :>
+- Web, App dev *Not currently active on GitHub* :>
 - JS, Java, Python, .NET, Developer
 - Homelab and Linux enthusiast
 
