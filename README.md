@@ -1,9 +1,9 @@
 # 💫 About Me:
 - Doing things for fun.
 - Not-so-begginer dev.
-- Mainly a 3D Artist.
+- Primarily a 3D Artist.
 
-- Self-hosting and Linux Enthusiast.
+- Self-hosting, Homelabbing, and Linux Enthusiast.
 - Self taught.
 
 
